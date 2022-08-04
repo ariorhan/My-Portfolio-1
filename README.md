@@ -1,1 +1,1 @@
-It's my first portfolio. Here is link => https://mypreviousportfolio-orhanari.netlify.app/
+It's my first portfolio. link is here => https://mypreviousportfolio-orhanari.netlify.app/
